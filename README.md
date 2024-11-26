@@ -39,9 +39,11 @@ AuroraProject/
 ## Getting Started
 
 ### Prerequisites
-- Node.js
-- Discord Account
-- ArcheRage Game Account
+- Python
+- React
+- Sanity
+- Javscript
+- 
 
 ### Installation
 1. Clone the repository
